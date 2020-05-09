@@ -1,35 +1,35 @@
 [{
         "name": "PockMine",
         "logo": "https://d2u2t7ljjv75fl.cloudfront.net/pics/pockmine.png",
-        "address": "",
+        "address": "20m0bte7qgzgbhdep552kw4at43cjcmvsdgmqkcw0rpphr46f9bezj6am",
         "profile": "PockMine为BigBang Core官方钱包应用，采用“云钱包+HD钱包”并行的双钱包结构，最大程度保障了用户的资产安全，为用户提供简单便捷、安全可靠的数字资产存储服务。云钱包现已支持BBC、USDT、BTC、ETH等币种，HD钱包则支持BBC及BBC支链中的各种Token。同时，PockMine更是全球首个支持EDPoS投票的手机客户端，并且兼顾CPoW和EDPoS双共识玩法。注册用户可以免费获得CPoW挖矿算力，产出的BBC可直接在应用内参与BBC EDPoS投票获取收益。",
         "profileEn": "PockMine is the official wallet APP for BigBang Core. It applies the \"cloud wallet + HD wallet\" paralleled dual-wallets structure, which guarantees the security of users' assets to the greatest extent, and provides a simple, convenient, safe and reliable digital asset storage service. Cloud wallet currently supports BBC, USDT, BTC, ETH and other currencies, while HD wallet supports BBC and all kinds of tokens in BBC branch chain. In the meantime, PockMine is the first client end on mobile that supports EDPoS voting in the world and considers both CPoW and EDPoS in the dual-consensus way. Registered users can get free CPoW mining computing power, and the BBC output can directly participate in the BBC EDPoS voting in the APP to generate earnings."
     },
     {
         "name": "PockChains",
         "logo": "https://d2u2t7ljjv75fl.cloudfront.net/pics/pockchains.png",
-        "address": "",
+        "address": "20m0emvkr82b7qn8hq2fc8tt2135tph52ghnkqs8ggm06qfn42d6zxheq",
         "profile": "PockChains（口袋云课堂）是公链BigBang Core的旗下品牌，是一个集学习、投资理财、分享推广于一体的综合平台。涵盖了金融投教、区块链行业相关课程，满足用户多元化学习的需求。在这里，每一个渴求知识的人都可以获得有质量保障的学习资源。",
         "profileEn": "PockChains is a brand of BigBang Core, a comprehensive platform integrating learning, investment and financial management, and sharing and promotion. It covers financial investment education and related courses in the blockchain industry to meet users' diverse learning needs. Here, everyone who desires knowledge can obtain quality-guaranteed learning resources."
     },
     {
         "name": "BBC Russia",
         "logo": "https://d2u2t7ljjv75fl.cloudfront.net/pics/default.png",
-        "address": "",
+        "address": "20m01gbqzmw3nvndx684nsxp1z3tcy4rg0715tgc9sraxd7m56ydttama",
         "profile": "由BigBang Core海外用户自发组成的第一个海外社区。CPoW期间，在矿池的防DDoS攻击防护工作以及技术反馈上做出了重要贡献 。",
         "profileEn": "The first overseas community spontaneously composed of users of BigBang core abroad. It made great contribution to the anti-DDoS-attack protection work of the mining pool and giving technical feedback during CPoW."
     },
     {
         "name": "BBC Foundation",
         "logo": "https://d2u2t7ljjv75fl.cloudfront.net/pics/default.png",
-        "address": "",
+        "address": "20m04mdaq57pvvtg2f0y7q2gb8f973h231gv3mhn3nrfzgtk5pkd1m2c7",
         "profile": "由来自香港、新加坡，马来西亚等国家和地区的著名投资人和投资机构组成的实体联盟 。",
         "profileEn": "An entity alliance formed by well-known investors and investment institutions from Hong Kong, Singapore, Malaysia and other countries and regions."
     },
     {
         "name": "BBCNET",
         "logo": "https://d2u2t7ljjv75fl.cloudfront.net/pics/bbcnet.png",
-        "address": "",
+        "address": "20m02ah2kd2aa7948cc160893xaaahf6rtz3cawj3mp4m6y9ra9en9y58",
         "profile": "BigBang Core国内第一批忠实粉丝群体，同时也是国内最大的社群，囊括了各个行业的人才，看中BigBang Core的落地价值与技术能力，长期与项目共同发展 。",
         "profileEn": "The first batch of fans of BigBang Core, which is also the largest community in China. It includes talents from all industries who affirm the landing value and technical capability of BigBang Core and develop together with the projects for the long term."
     }
