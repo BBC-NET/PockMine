@@ -67,5 +67,26 @@
         "address": "20m03w2c5xhphzfq7fqzh8qfgpdgsn86dzzdrhxb613ar2frg5y71t2yx",
         "profile": "BBC Stake是口袋云课堂官方推出的理财产品，通过口袋云课堂参与BBC Stake， 可获取月化9%-36%的BBC投资收益。前往 https://www.pockchains.io 下载口袋云课堂，了解更多信息。",
         "profileEn": "BBC Stake is a wealth management product launched by PockChains. You can participate in BBC Stake through PockChains and get 9% -36% of the BBC income monthly. Go to https://www.pockchains.io and download PockChains for more information."
+    },
+    {
+        "name": "bbc",
+        "logo": "http://placekitten.com/100/100",
+        "address": "20m0bjk08wb87rtdspvcr3yf440zpq0e9a8e24qg44g968fy9vkww4rn6",
+        "profile": "测试节点20m0bjk08wb87rtdspvcr3yf440zpq0e9a8e24qg44g968fy9vkww4rn6",
+        "profileEn": "en-20m0bjk08wb87rtdspvcr3yf440zpq0e9a8e24qg44g968fy9vkww4rn6"
+    },
+    {
+        "name": "chuanhua",
+        "logo": "http://placekitten.com/80/80",
+        "address": "20m024kcanmkw49ef4v4tvy607d4md196eyg3tz1apagk0tr24n1jzcnn",
+        "profile": "测试节点zcnn",
+        "profileEn": "en-20m024kcanmkw49ef4v4tvy607d4md196eyg3tz1apagk0tr24n1jzcnn"
+    },
+    {
+        "name": "3qu.com",
+        "logo": "http://placekitten.com/150/150",
+        "address": "20m0dz1eca545bsnqf1xp5yt5ad6bfztyjbyev3dx9qb0vyfc1wwa6ynz",
+        "profile": "测试节点",
+        "profileEn": "en-20m0dz1eca545bsnqf1xp5yt5ad6bfztyjbyev3dx9qb0vyfc1wwa6ynz"
     }
 ]
